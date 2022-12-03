@@ -1,0 +1,24 @@
+.container{
+    margin-top: 20px;
+}
+#num2{
+    margin-top:20px;
+}
+.total{
+    font-weight: bold;
+    font-size:20em;
+    text-align: center;
+}
+#btn {
+    margin-top:20px;
+}
+#new{
+    border-radius: 50px;
+    background: linear-gradient(145deg, #b6ccda, #d8f3ff);
+    box-shadow:  20px 20px 60px #acc1ce,
+             -20px -20px 60px #e8ffff;
+    
+}
+#main_row{
+    padding:50px
+}
